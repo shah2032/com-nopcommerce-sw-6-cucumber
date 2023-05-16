@@ -1,0 +1,4 @@
+2023-05-16 01:05:406 INFO  HomePage :57 - Clicking on Computers Tab : [[ChromeDriver: chrome on WINDOWS (1310443c672bbc8b13f01462fc31e2c9)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-05-16 01:05:460 INFO  ComputerPage :35 - Click on Desktop[[ChromeDriver: chrome on WINDOWS (1310443c672bbc8b13f01462fc31e2c9)] -> xpath: //a[@title='Show products in category Desktops'][normalize-space()='Desktops']]
+2023-05-16 01:05:330 INFO  HomePage :67 - Get Text Build your own computerProxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Build your own computer')]'
+2023-05-16 01:05:38 INFO  ComputerPage :29 - Get text Computer[[ChromeDriver: chrome on WINDOWS (2b11746a1467d5cbe9db74bfce29d623)] -> xpath: //div[@class='header-menu']]
